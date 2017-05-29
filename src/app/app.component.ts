@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { BinaryTreeComponent } from './binary-tree/binary-tree.component';
 
 @Component({
   selector: 'app-root',
